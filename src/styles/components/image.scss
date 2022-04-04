@@ -1,0 +1,14 @@
+$color: #000;
+@font-face {
+  font-family: myFirstFont;
+  src: url("/assets/fonts/Roboto/Roboto-Bold.ttf");
+}
+img {
+  border: 10px solid $color;
+}
+
+article {
+  width: 100px;
+  height: 100px;
+  background-image: url("/assets/images/backgrounds/mega.jpeg");
+}
